@@ -14,7 +14,7 @@
         <version>2.1.12.RELEASE</version>
     </parent>
     <properties>
-        <mysql.version>5.1.47</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
         <lombok.version>1.18.12</lombok.version>
         <common.version>6.0.0</common.version>
         <mybatis.version>3.2.0</mybatis.version>
